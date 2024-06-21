@@ -1,17 +1,31 @@
-# P1 Registration Analysis Dashboard
+# P1 Registration Dashboard
 
 This is a self-initiated project to visualise Primary 1 registration data in a Tableau Public dashboard. 
 
-## This repo
+## This Repo
 
 This repo contains the Python code to (1) scrap data from https://sgschooling.com/; and (2) cleaning the data in multiple ways. 
 
-## Tableau Public dashboard
+## Dashboards
 
-The resulting dashboard looks like this:
+### Power BI (Recent)
+
+[Link](https://app.powerbi.com/view?r=eyJrIjoiMzA3Njk5MjYtMmRmOS00NjlkLWE5NWItYzE1MjkyZTUzNjVmIiwidCI6IjBmYjkwN2NiLTQwNDgtNDA0My05YTMyLTk2NTc2Nzg0MWYyMyIsImMiOjEwfQ%3D%3D) to dashboard.
+
+![](https://github.com/zeyalt/p1-registration-analysis/tree/main/powerbi_dash.gif)
+
+![p1viz](powerb1_page1.png)
+
+![p1viz](powerb1_page2.png)
+
+![p1viz](powerb1_page3.png)
+
+![p1viz](powerb1_page4.png)
+
+### Tableau Public 
+
+[Link](https://public.tableau.com/app/profile/zeya.lt/viz/P1RegistrationAnalysis/Overview#1) to dashboard.
 
 ![p1viz](dashboard_overview.png)
 
 ![p1viz](dashboard_detailed.png)
-
-Click [here](https://public.tableau.com/app/profile/zeya.lt/viz/P1RegistrationAnalysis/Overview#1) to view dashboard.
