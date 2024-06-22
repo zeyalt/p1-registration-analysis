@@ -14,13 +14,13 @@ This repo contains the Python code to (1) scrap data from https://sgschooling.co
 
 ![](https://github.com/zeyalt/p1-registration-analysis/tree/master/powerbi_dash.gif)
 
-![p1viz](https://github.com/zeyalt/p1-registration-analysis/tree/master/powerb1_page1.png)
+![p1viz](https://github.com/zeyalt/p1-registration-analysis/tree/master/powerbi_page1.png)
 
-![p1viz](https://github.com/zeyalt/p1-registration-analysis/tree/master/powerb1_page2.png)
+![p1viz](https://github.com/zeyalt/p1-registration-analysis/tree/master/powerbi_page2.png)
 
-![p1viz](https://github.com/zeyalt/p1-registration-analysis/tree/master/powerb1_page3.png)
+![p1viz](https://github.com/zeyalt/p1-registration-analysis/tree/master/powerbi_page3.png)
 
-![p1viz](https://github.com/zeyalt/p1-registration-analysis/tree/master/powerb1_page4.png)
+![p1viz](https://github.com/zeyalt/p1-registration-analysis/tree/master/powerbi_page4.png)
 
 ### Tableau Public 
 
